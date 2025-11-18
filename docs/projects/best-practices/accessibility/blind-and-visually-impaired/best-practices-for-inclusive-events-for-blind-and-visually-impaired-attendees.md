@@ -1,6 +1,6 @@
 ---
-title: "Best Practices for Inclusive Events for Blind and Visually Impaired Attendees"
-description: A guide to creating events that enable full participation, by visually impaired attendees and speakers
+title: "Event organizers"
+description: A guide to creating events that enable full participation by visually impaired attendees and speakers
 ---
 
 # Best Practices for Inclusive Events for Blind and Visually Impaired Attendees
