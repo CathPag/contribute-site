@@ -1,5 +1,5 @@
 ---
-title: "Using Slack With a Screen Reader"
+title: "Slack and screen reader"
 description: Tips to help screen reader users use the Slack messaging application
 ---
 
